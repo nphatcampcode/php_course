@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Madd word game</title>
+    <title>Madd libs game</title>
 </head>
 
 <body>
